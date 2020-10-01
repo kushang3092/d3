@@ -1,4 +1,4 @@
-LOCALE ?= en_US
+LOCAL ?= en_US
 
 GENERATED_FILES = \
 	d3.js \
